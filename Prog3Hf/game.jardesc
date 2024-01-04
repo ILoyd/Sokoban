@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="WINDOWS-1250" standalone="no"?>
+<jardesc>
+    <jar path="E:/eclipse/Game.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Prog3Hf/game.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=Prog3Hf/src&lt;main{Sokoban.java[Sokoban" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=Prog3Hf/src"/>
+        <file path="/Prog3Hf/.project"/>
+        <file path="/Prog3Hf/.classpath"/>
+        <file path="/Prog3Hf/game.jardesc"/>
+    </selectedElements>
+</jardesc>
